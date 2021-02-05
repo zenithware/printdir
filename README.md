@@ -1,5 +1,6 @@
 # printdir
 Stampa automaticamente i file PDF che popolano una cartella
+Una volta stampato, il PDF viene spostato nella sottocartella PrintLog (creata automaticamente nel percorso specificato)
 
 
 inserire il percorso della cartella da monitorare nella variabile dbWatchDir
