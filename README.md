@@ -1,17 +1,17 @@
 # printdir
-Automatically print PDF files that populate a folder Once printed, the PDF is moved to the PrintLog sub-folder (automatically created in the specified path)
-insert the path of the folder to be monitored in the dbWatchDir variable
+Automatically print PDF files that populate a folder.
+Once printed, the PDF is moved to the PrintLog sub-folder (automatically created in the specified path)
+Insert the path of the folder to be monitored in the dbWatchDir variable
 example: dbWatchDir = "C:\Users\yourname\Documents\Fax\"
 
 Launch the file printdir.vbs like a normal PC program
-
 to stop it, use the Windows Task Manager and end tasks with the right mouse button
 
 
 
 
 
-
+*******************ITALIANO*****************************
 
 
 
